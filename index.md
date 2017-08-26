@@ -2,10 +2,10 @@
 
 ## OCR Technology
 
-    - Tesseract
-    - Acrobat
+    - [Tesseract](https://github.com/tesseract-ocr)
+    - Adobe Acrobat
 
 ## ICR Technology
 
-    - Tensorflow
-    - Accord.Net
+    - [Tensorflow](https://github.com/tensorflow/tensorflow)
+    - [Accord.Net](https://github.com/accord-net)
